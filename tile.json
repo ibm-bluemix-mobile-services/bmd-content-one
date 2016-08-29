@@ -3,8 +3,8 @@
 		"type": "url",
 		"text" : "Create Project",
 		"link": "/mobile/create-project",
-		"description" : "Create your first Project"
+		"description" : "Create your first project"
 	},
-	"image" : "https://raw.githubusercontent.com/mven/CodeEval/c2b39377e1f96a17e5493de4cbf375d6072fdd66/teal.png",
-	"icon" : "https://raw.githubusercontent.com/mven/CodeEval/master/teal-icon2.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/teal.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/teal-icon2.png"
 }
