@@ -2,7 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "Create Project",
-		"link": "/mobile/create-project",
+		"link": "../create-project",
 		"description" : "Create your first project"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/teal.png",
