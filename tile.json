@@ -4,7 +4,7 @@
 		"text" : "Create Project",
 		"link": "../create-project",
 		"description" : "Create your first project",
-		"newTab" : true,
+		"newTab" : false,
 		"altText" : "Create your first project"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/temp_create_project.png",
