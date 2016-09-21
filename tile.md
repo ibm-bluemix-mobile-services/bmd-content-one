@@ -1,3 +1,3 @@
 # Create Your First Project
 
-Choose a starter project that best matches your needs. Configure Push, Analytics, Authentication, and your working code!
+Choose a starter project that best matches your needs. Add Push, Analytics, and Authentication capabilities, and configure your working code!
