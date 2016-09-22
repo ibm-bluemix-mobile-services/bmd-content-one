@@ -7,6 +7,6 @@
 		"newTab" : false,
 		"altText" : "Create your next project"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/create_project.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/create_project.png"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.png",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.png"
 }
