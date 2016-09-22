@@ -3,10 +3,10 @@
 		"type": "url",
 		"text" : "Create Project",
 		"link": "../create-project",
-		"description" : "Create your first project",
+		"description" : "Create your next project",
 		"newTab" : false,
-		"altText" : "Create your first project"
+		"altText" : "Create your next project"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/temp_create_project.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/temp_create_project.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/create_project.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-one/master/create_project.png"
 }
