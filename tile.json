@@ -1,11 +1,11 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Coming Soon!",
-		"link": "../projects",
+		"text" : "Create Project",
+		"link": "../create-project",
 		"description" : "Create your next project",
 		"newTab" : false,
-		"altText" : "Coming Soon!"
+		"altText" : "Create your next project"
 	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
 	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg"
