@@ -1,11 +1,19 @@
 {
 	"action" : {
-		"type": "url",
+		"type" : "url",
 		"text" : "Create Project",
-		"link": "../create-project",
+		"link" : "../create-project",
 		"description" : "Create your next project",
 		"newTab" : false,
 		"altText" : "Create your next project"
+	},
+	"alternateAction" : {
+		"type" : "url",
+		"text" : "View Docs",
+		"link" : "../../docs/cloudnative/index.html",
+		"description" : "View Docs",
+		"newTab" : true,
+		"altText" : "View Docs"
 	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
 	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg"
