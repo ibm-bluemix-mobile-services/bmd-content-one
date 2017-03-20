@@ -4,7 +4,7 @@
 		"text" : "Create Project",
 		"link" : "../create-project",
 		"description" : "Create your next project",
-		"newTab" : false,
+		"newTab" : true,
 		"altText" : "Create your next project"
 	},
 	"alternateAction" : {
